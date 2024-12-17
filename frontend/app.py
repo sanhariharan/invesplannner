@@ -15,6 +15,7 @@ API_URL = "http://localhost:8000/api"
 
 def main():
     st.title("Investment Planning AI 📈")
+    st.write("with 💖by San ")
     
     # Sidebar for user input
     with st.sidebar:
